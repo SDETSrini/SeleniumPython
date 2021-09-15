@@ -31,3 +31,7 @@ class TestHomePage(BaseClass):
 # def test_HomepageHeader1Validation(self, setup): - Rohit
     def test_HomepageFooter2Validation(self):
         print("Code for Footer2 validation")
+
+ # def test_HomepageHeader1Validation(self, setup): - Rohit
+    def test_HomepageFooter3Validation(self):
+            print("Code for Footer3 validation")
